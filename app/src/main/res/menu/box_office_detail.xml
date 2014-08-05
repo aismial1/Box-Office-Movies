@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_external_link_rotten_tomatoes"
+        android:icon="@drawable/action_rotten_tomatoe"
+        android:showAsAction="always"
+        android:title="Show in Rotten Tomatoes"
+        />
+    <item
+        android:id="@+id/action_external_link_imdb"
+        android:icon="@drawable/action_imdb"
+        android:showAsAction="always"
+        android:title="Show in IMDb"
+        />
+</menu>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Box-Office-Movies.iml" filepath="$PROJECT_DIR$/Box-Office-Movies.iml" />
       <module fileurl="file://$PROJECT_DIR$/BoxOfficeMovies.iml" filepath="$PROJECT_DIR$/BoxOfficeMovies.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
